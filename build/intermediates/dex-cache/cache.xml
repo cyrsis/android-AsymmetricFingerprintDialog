@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\org.mockito\mockito-core\1.10.19\e8546f5bef4e061d8dd73895b4e8f40e3fe6effe\mockito-core-1.10.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\mockito-core-1.10.19_6e2e5fb6a19372003a2d0f5e8dfc515c98b98918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger-compiler\1.2.2\fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57\dagger-compiler-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-compiler-1.2.2_da30a1b207596c48866fb99c6028477901f06c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_f29165ec615ecd9bdc81779689c36bd199d7031b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_6fa6fa7c7817c6db8f2cf80b94521f522194e43d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_a99c9d480908e4d038c23eca8a4f56da6a17b99b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\15.0\ed727a8d9f247e2050281cb083f1c77b09dcb5cd\guava-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\guava-15.0_b5c9a5c997675d91def05f465f8b0c91d9dc4b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_fe5d74862d81a3fcc922def431fe1fb545b534bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.2.2\e8f912ee19ad84958510883ea191135276b091f8\dagger-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-1.2.2_dcd4ed4cc80bb2db79f6d0e16a19210538a7d6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_a1c4769a9717f4ca48cfcd47bc5d9e330087997b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_d8a1c73359828ce3b217d4e269fd7a0e8a318d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\squareup\javawriter\2.5.0\javawriter-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\javawriter-2.5.0_2e1c3a73b8135378cb0284793f7fdfd080ed7b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5638b0bed081f8e735c133faaa90762098c05a14">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00749ee3242714de28455abb976ab37c0ea2fff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.1\87c0ea803b69252868d09308b4618f766f135a96\objenesis-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\objenesis-2.1_da147fb11c9521e4f591a29a266a015097944f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_d5022c2e20a4e30bdc3c096d33091969213516ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_139f72a84564bf98a83c83cd400a3da2dcb4ac55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_8aefc08779d544dc55a2e0d54b0c80e1fa79ad0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f864d18c7b1cd61a3545a119a53470007ae20ef8">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bbe056a0f5b1626787e02ba1777c08fdd198c38e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cyber\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_23b157629331ef246941ebb5264af5187b238762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_70f4242b225d4f2eb4419ac30442868f2bf2c8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_036bb8a061df14269a635e478332514ff364723c\classes.dex" />
+    </item>
+
+</items>

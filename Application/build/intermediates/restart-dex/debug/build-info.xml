@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1383976250691"
+    token="-8225251798594420385"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2306" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="813" />
+    <task
+        name="verifier"
+        duration="152" />
+
+    <artifact
+        location="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1383976250691"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
