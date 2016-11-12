@@ -1,4 +1,4 @@
-#Sun Oct 02 19:48:26 CST 2016
+#Fri Oct 21 03:28:05 CST 2016
 base.0=H\:\\@Dev\\android-AsymmetricFingerprintDialog\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_00749ee3242714de28455abb976ab37c0ea2fff4
 renamed.1=classes.dex
 renamed.0=classes2.dex

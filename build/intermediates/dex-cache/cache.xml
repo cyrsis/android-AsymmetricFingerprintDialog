@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="5638b0bed081f8e735c133faaa90762098c05a14">
+        sha1="af190dfb44b134d728242b18879d796e6784dd0a">
         <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00749ee3242714de28455abb976ab37c0ea2fff4\classes.dex" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="f864d18c7b1cd61a3545a119a53470007ae20ef8">
+        sha1="c63879e64c2541687126c07ac0635ab60de5b307">
         <dex dex="H:\@Dev\android-AsymmetricFingerprintDialog\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bbe056a0f5b1626787e02ba1777c08fdd198c38e\classes.dex" />
     </item>
     <item
